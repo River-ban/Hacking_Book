@@ -16,6 +16,7 @@ This repository contains cybersecurity and ethical hacking books in PDF format f
 | 8   | Metasploit                    | Penetration Testing |
 | 9   | Penetration Testing           | Ethical Hacking     |
 | 10  | Practical Packet Analysis     | Network Analysis    |
+| 11  | websecurityfordeveloper       |     Web             |
 
 ⚠️ Disclaimer
 
